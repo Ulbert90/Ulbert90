@@ -66,6 +66,6 @@ ____
 
 <p align="center">
 
-⭐️ [Ulbert Alain Odle(https://github.com/ulbert90)
+⭐️ [Ulbert Alain Odle](https://github.com/Ulbert90)
 
 </p>
