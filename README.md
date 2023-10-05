@@ -46,6 +46,23 @@
 </td>
 </tr>
 
+<tr>
+<td align="center" width="20%">
+<span><b><center>MySQL</center></b></span> 
+<img width="65" height="65" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
+</td>
+
+<td align="center" width="20%">
+<span><b><center>PHP</center></b></span> 
+<img width="65" height="65" src="https://img.icons8.com/fluency/65/php.png" alt="php"/> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Python</center></b></span> 
+<img width="65" height="65" src="https://img.icons8.com/fluency/65/python.png" alt="python"/>
+</td>
+</tr>
+
 </tbody>
 </table>
 
