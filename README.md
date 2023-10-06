@@ -4,62 +4,88 @@
 <p align="center"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
 
 
-<p align="center"> <samp>Hi, My name is Ulbert Alain. I am a student. I want to be at the bleeding edge of technology. 📚📈🔬, and I'm also a competitive programmer 🤩 🎈. In my repos you'll find projects created using 
+<p align="center"> <samp>Hi, My name is Sari Risky. I am a student, I'm also a competitive programmer. In my repos you'll find projects created using programming language learn by myself
   
   
 ## Tech Stack :computer:
 
 <br>
 <table>
-<tbody>
- <tr>
+  <tbody>
+    <tr>
+      <td align="center" width="20%">
+        <div>
+          <img width="50%" height="50%" src="https://img.icons8.com/color/2x/html-5.png">
+          <br>
+          <span><b><center>HTML5</center></b></span>
+        </div>
+      </td>
+
 <td align="center" width="20%">
-<span><b><center>HTML5</center></b></span> 
-<img width="65" height=65px src="https://img.icons8.com/color/2x/html-5.png">
+<div>
+<img width="50%" height="50%" src="https://img.icons8.com/fluency/240/css3.png" alt="css3"/>
+<br>
+<span><b><center>CSS</center></b></span>
 </td>
 
 <td align="center" width="20%">
-<span><b><center>CSS</center></b></span> 
-<img width="65" height="65" src="https://img.icons8.com/fluency/240/css3.png" alt="css3"/>
-</td>
-
-<td align="center" width="20%">
-<span><b><center>JavaScript</center></b></span> 
-<img width="65" height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
+<div>
+<img width="50%" height="50%" src="https://img.icons8.com/color/2x/javascript.png">
+<br>
+<span><b><center>JavaScript</center></b></span>
+</div>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
+<div>
+<img width="50%" height="50%" src="https://img.icons8.com/color-glass/65/bootstrap.png" alt="bootstrap"/> 
+<br>
 <span><b><center>Bootstrap</center></b></span> 
-<img width="65" height="65" src="https://img.icons8.com/color-glass/65/bootstrap.png" alt="bootstrap"/> 
+<div>
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Laravel</center></b></span> 
-<img  width="65" height="65" src="https://img.icons8.com/fluency/48/laravel.png" alt="laravel"/> 
+<div> 
+<img  width="50%" height="50%" src="https://img.icons8.com/fluency/48/laravel.png" alt="laravel"/> 
+<br>
+<span><b><center>Laravel</center></b></span>
+</div>
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Ionic</center></b></span> 
-<img width="65" height="65" src="https://img.icons8.com/color/65/ionic.png" alt="ionic"/>
+ <div>
+<img width="50%" height="50%" src="https://img.icons8.com/color/65/ionic.png" alt="ionic"/>
+<br>
+<span><b><center>Ionic</center></b></span>
+</div>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>MySQL</center></b></span> 
-<img width="65" height="65" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
+  <div> 
+<img width="50%" height="50%" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
+  <br>
+  <span><b><center>MySQL</center></b></span>
+  </div>
+  </td>
+
+<td align="center" width="20%">
+<div>
+<img width="50%" height="50%" src="https://img.icons8.com/fluency/65/php.png" alt="php"/> 
+<br>
+  <span><b><center>PHP</center></b></span> 
+</div>
 </td>
 
 <td align="center" width="20%">
-<span><b><center>PHP</center></b></span> 
-<img width="65" height="65" src="https://img.icons8.com/fluency/65/php.png" alt="php"/> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
-<img width="65" height="65" src="https://img.icons8.com/fluency/65/python.png" alt="python"/>
+<div> 
+<img width="50%" height="50%" src="https://img.icons8.com/fluency/65/python.png" alt="python"/>
+<br>
+  <span><b><center>Python</center></b></span>
+</div>
 </td>
 </tr>
 
