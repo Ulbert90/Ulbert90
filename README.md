@@ -1,5 +1,5 @@
 
-<h2 align="center"> Hi, I'm Ulbert Alain Odle 👋 <br/> </h2> 
+<h2 align="center"> Sari Risky Hidayatulloh <br/> </h2> 
 
 <p align="center"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
 
@@ -131,7 +131,7 @@ ____
   <img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="https://instagram.com/its_me.sarii?igshid=MzRlODBiNWFlZA==">
+<a href="https://instagram.com/saririsky__/?igshid=MzRlODBiNWFlZA==">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
