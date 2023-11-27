@@ -131,7 +131,7 @@ ____
   <img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="https://instagram.com/saririsky__/?igshid=MzRlODBiNWFlZA==">
+<a href="https://instagram.com/saririsky___/?igshid=MzRlODBiNWFlZA==">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
