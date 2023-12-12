@@ -1,172 +1,89 @@
+<h2 align="center"> Sari Risky Hidayatulloh </h2>
 
-<h2 align="center"> Sari Risky Hidayatulloh <br/> </h2> 
+<p align="center"><img width="50%" src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
 
-<p align="center"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
+<p align="center"> <samp>Hi, I'm Sari Risky, a student and competitive programmer. In my repos, you'll find projects created using programming languages I've learned on my own.</samp></p>
+<hr>
 
+<h3 align="center">Current Roles:</h3>
+<p align="center" class="sec-text">Web Developer</p>
 
-<p align="center"> <samp>Hi, My name is Sari Risky. I am a student, I'm also a competitive programmer. In my repos you'll find projects created using programming language learn by myself
-  <hr>
-  <script>
-    const text = document.querySelector(".sec-text");
-
-const Load = () => {
-
-setTimeout(() => {
-
-text.textContent = "Web Developer";
-
-1, 0);
-
-setTimeout(() => {
-
-text.textContent = "Youtuber";
-
-}, 4000);
-
-setTimeout(() => {
-
-text.textContent = "Freelancer"; , 8000); //1s 1000 milliseconds }
-
-Load();
-
-setInterval(Load, 12800);
-  </script>
-  
 ## Tech Stack :computer:
 
-<br>
-<table>
-  <tbody>
-    <tr>
-      <td align="center" width="20%">
-        <div>
-          <img width="50%" height="50%" src="https://img.icons8.com/color/2x/html-5.png">
-          <br>
-          <span><b><center>HTML5</center></b></span>
-        </div>
-      </td>
+<table align="center">
+  <tr>
+    <td align="center" width="20%">
+      <img width="50%" height="50%" src="https://img.icons8.com/color/2x/html-5.png">
+      <br>
+      <b>HTML5</b>
+    </td>
 
-<td align="center" width="20%">
-<div>
-<img width="50%" height="50%" src="https://img.icons8.com/fluency/240/css3.png" alt="css3"/>
-<br>
-<span><b><center>CSS</center></b></span>
-</td>
+    <td align="center" width="20%">
+      <img width="50%" height="50%" src="https://img.icons8.com/fluency/240/css3.png" alt="css3"/>
+      <br>
+      <b>CSS</b>
+    </td>
 
-<td align="center" width="20%">
-<div>
-<img width="50%" height="50%" src="https://img.icons8.com/color/2x/javascript.png">
-<br>
-<span><b><center>JavaScript</center></b></span>
-</div>
-</td>
-</tr>
+    <td align="center" width="20%">
+      <img width="50%" height="50%" src="https://img.icons8.com/color/2x/javascript.png">
+      <br>
+      <b>JavaScript</b>
+    </td>
+  </tr>
 
-<tr>
-<td align="center" width="20%">
-<div>
-<img width="50%" height="50%" src="https://img.icons8.com/color-glass/65/bootstrap.png" alt="bootstrap"/> 
-<br>
-<span><b><center>Bootstrap</center></b></span> 
-<div>
-</td>
+  <!-- Add more rows as needed -->
 
-<td align="center" width="20%">
-<div> 
-<img  width="50%" height="50%" src="https://img.icons8.com/fluency/48/laravel.png" alt="laravel"/> 
-<br>
-<span><b><center>Laravel</center></b></span>
-</div>
-</td>
-
-<td align="center" width="20%">
- <div>
-<img width="50%" height="50%" src="https://img.icons8.com/color/65/ionic.png" alt="ionic"/>
-<br>
-<span><b><center>Ionic</center></b></span>
-</div>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-  <div> 
-<img width="50%" height="50%" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
-  <br>
-  <span><b><center>MySQL</center></b></span>
-  </div>
-  </td>
-
-<td align="center" width="20%">
-<div>
-<img width="50%" height="50%" src="https://img.icons8.com/fluency/65/php.png" alt="php"/> 
-<br>
-  <span><b><center>PHP</center></b></span> 
-</div>
-</td>
-
-<td align="center" width="20%">
-<div> 
-<img width="50%" height="50%" src="https://img.icons8.com/fluency/65/python.png" alt="python"/>
-<br>
-  <span><b><center>Python</center></b></span>
-</div>
-</td>
-</tr>
-
-</tbody>
 </table>
 
-____
+<hr>
 
 <div align="left">
-   <a href="https://github.com/Ulbert90">
-  <img src="https://komarev.com/ghpvc/?username=ulbert90&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"
-/>
-   </a>
+  <a href="https://github.com/Ulbert90">
+    <img src="https://komarev.com/ghpvc/?username=ulbert90&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ulbert90" alt="ulbert90" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ulbert90" alt="ulbert90" />
+  </a>
+</p>
 
-____
+<hr>
 
-<p>
+<p align="center">
   <a href="https://github.com/Ulbert90">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ulbert90&show_icons=true&locale=en&layout=compact" alt="ulbert90" />
   </a>
 </p>
-<p>
+
+<p align="center">
   <a href="https://github.com/Ulbert90">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ulbert90&show_icons=true&locale=en" alt="ulbert90" />
   </a>
 </p>
-<p>
+
+<p align="center">
   <a href="https://github.com/Ulbert90">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ulbert90" alt="ulbert90" />
   </a>
 </p>
 
-
-____
+<hr>
 
 <h3 align="center"> Other Accounts 📫 </h3>
-<br />
 <p align="center">
-<a href="https://www.facebook.com/profile.php?id=100039622606168&mibextid=ZbWKwL">
-  <img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
+  <a href="https://www.facebook.com/profile.php?id=100039622606168&mibextid=ZbWKwL">
+    <img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 
-<a href="https://instagram.com/saririsky___/?igshid=MzRlODBiNWFlZA==">
-  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
+  <a href="https://instagram.com/saririsky___/?igshid=MzRlODBiNWFlZA==">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
-____
-
+<hr>
 
 <p align="center">
-
-⭐️ [Ulbert Alain Odle](https://github.com/Ulbert90)
-
+  ⭐️ [Ulbert Alain Odle](https://github.com/Ulbert90)
 </p>
